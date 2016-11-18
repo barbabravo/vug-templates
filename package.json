@@ -1,0 +1,19 @@
+{
+  "name": "qbs-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.2b6.me:qbs/qbs-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qbs-components": "git+ssh://git@git.2b6.me:qbs/qbs-components.git",
+    "qbs-utils": "git+ssh://git@git.2b6.me:qbs/qbs-utils.git"
+  }
+}
