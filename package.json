@@ -1,5 +1,5 @@
 {
-  "name": "qbs-template",
+  "name": "vug-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.2b6.me:qbs/qbs-template.git"
+    "url": "git@github.com:bluers/vug-template.git"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "qbs-components": "git+ssh://git@git.2b6.me:qbs/qbs-components.git",
-    "qbs-utils": "git+ssh://git@git.2b6.me:qbs/qbs-utils.git"
+    "vug-components": "git+https://github.com/bluers/vug-components.git",
+    "vug-utils": "git+https://github.com/bluers/vug-utils.git"
   }
 }
