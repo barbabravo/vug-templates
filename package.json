@@ -1,5 +1,5 @@
 {
-  "name": "vug-template",
+  "name": "vug-templates",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:bluers/vug-templates.git"
+    "url": "https://github.com/bluers/vug-components.git"
   },
   "author": "",
   "license": "ISC",
