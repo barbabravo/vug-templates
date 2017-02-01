@@ -8,7 +8,6 @@
 
 <script>
 import Vue 		from 'vue';
-import utils	from 'vug-utils';
 
 
 export default {
