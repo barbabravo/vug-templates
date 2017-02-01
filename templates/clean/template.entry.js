@@ -2,10 +2,9 @@
 import Vue 		from 'vue';
 import vugPage 	 from './[page_name].vue';
 
-window.onload = ()=>{
-	new Vue({
-		el: '#app',
-		components: {
-			vugPage,
-		}
-};
+new Vue({
+	el: '#app',
+	components: {
+		vugPage,
+	}
+})
