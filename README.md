@@ -18,8 +18,8 @@ template.vue 		# 当前模板所生成的实例项目页面js
 
 # 模板分类
 ```
-clean    		  # 纯净模板
-mobile 			  # 移动端模板
-mint-mobile 	# 移动端强依赖mint-ui ^2.1.0
+clean    		    # 纯净模板
+mobile 			    # 移动端模板
+mobile-loading 	# 移动端初始带loading
 
 ```
