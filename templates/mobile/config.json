@@ -1,6 +1,7 @@
 {
 	"template":"mobile",
 	"version":"1.0",
+	"polyfill":false,
 	"head-placeholder":[],
 	"dom-placeholder":[]
 }
