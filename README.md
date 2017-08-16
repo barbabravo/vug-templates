@@ -27,6 +27,7 @@ mobile 			    # 移动端模板(带head、dom的placerholder配置,用于head标
 {
 	"template":"web",
 	"version":"1.0",
+	"polyfill":false,//是否使用polyfill兼容古老浏览器
 	"head-placeholder":["head1.css","head2.js","head3.html","head4.else"],
 	"dom-placeholder":["dom1.css","dom2.js","dom3.html","dom4.else"]
 }
